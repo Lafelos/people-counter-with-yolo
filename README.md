@@ -13,7 +13,7 @@ This repository contains a Python program that uses the YOLO (You Only Look Once
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/people-counter-with-yolo.git
+    git clone https://github.com/Lafelos/people-counter-with-yolo.git
     cd people-counter-with-yolo
     ```
 
@@ -31,7 +31,7 @@ This repository contains a Python program that uses the YOLO (You Only Look Once
     python main.py
     ```
 
-2. **Video Input**: The program can process video files or live video streams from a webcam. Specify the path to the video file or use the default webcam input.
+2. **Video Input**: The program can process live video streams from a webcam. Use the default webcam input.
 3. **Counting Zone**: A rectangle is drawn on the video feed to indicate the zone where counting occurs. Adjust the position and size of the rectangle in the code as needed.
 
 ## Contributing
@@ -40,4 +40,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
