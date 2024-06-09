@@ -22,7 +22,7 @@ This repository contains a Python program that uses the YOLO (You Only Look Once
     pip install -r requirements.txt
     ```
 
-3. Download YOLO weights and configuration files. You can find the pre-trained weights and config files [here](https://pjreddie.com/darknet/yolo/).
+3. Download YOLO weights and configuration files. You can find the pre-trained weights and config files [here](https://docs.ultralytics.com/es/tasks/detect/).
 
 ## Usage
 
